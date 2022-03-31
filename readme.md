@@ -9,7 +9,7 @@ The purpuose of the game is to go away from the cave and to not bump into the dr
 
 ## Team
 
-CaveGame is a project created by [Vali](https://github.com/DevVali/) inspired by a competition.
+CaveGame is a project created by [Vali](https://github.com/DevVali/) and inspired by a competition.
 
 ## Community
 
@@ -18,7 +18,7 @@ CaveGame is a project created by [Vali](https://github.com/DevVali/) inspired by
 
 ## Changelog
 
-The changelog is available on the release page in each theme's repository.
+The changelog is available on the release page.
 
 ## Copyright
 
