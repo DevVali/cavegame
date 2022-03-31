@@ -1,7 +1,7 @@
 // JavaScript main file
 
 // build number
-var build = 1.04;
+var build = 1.42;
 var buildId = document.getElementById("build");
 
 buildId.innerHTML = build;
