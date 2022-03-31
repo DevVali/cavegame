@@ -5,7 +5,7 @@
 
 ## Navigation
 
-The purpuose of the game is to go away from the cave and to not bump into the dragon. Collect the magic wand to kill the dragon.
+The purpuose of the game is to go away from the cave and to not bump into the dragon.<br>Collect the magic wand to kill the dragon.
 
 ## Team
 
