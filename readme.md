@@ -5,10 +5,10 @@
 
 ## Navigation
 
-In the game, there's a person (you), and you must must go for the trophy - go away from the cave.
-While you go there, you can see there a dragon, if you meet the dragon you lose the game, you can kill the dragon by using a magic wand.
-You collect magic wand and then you can go into the dragon.
-That's all how the game does work.
+In the game, there's a person (you), and you must must go for the trophy - go away from the cave.<br>
+While you go there, you can see there a dragon, if you meet the dragon you lose the game, you can kill the dragon by using a magic wand.<br>
+You collect magic wand and then you can go into the dragon.<br>
+That's all how the game does work.<br>
 
 ## Team
 
